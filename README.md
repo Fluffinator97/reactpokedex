@@ -1,4 +1,4 @@
-# React Weather App
+# React Pokedex App
 
 How to run:
 1. Go to the root folder.
